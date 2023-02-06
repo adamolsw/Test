@@ -1,0 +1,13 @@
+# Revised .gitIgnore (04/02/2023)
+*.cache
+*.dbmdl
+*.force
+*.nupkg
+*.schemaview
+*.suo
+*.user
+*.log
+.vs/
+obj/
+bin/
+packages/
